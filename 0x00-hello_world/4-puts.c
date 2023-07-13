@@ -1,11 +1,9 @@
-#include<stdio.h>
-/*puts inffo
- */
-int main(void)
+#include<stdio.h>/*start line*/
+int main(void)/* main description*/
 {
 /*
  * main description
  */
-	puts("Programming is like building a multilingual puzzle");
-	return 0;
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
