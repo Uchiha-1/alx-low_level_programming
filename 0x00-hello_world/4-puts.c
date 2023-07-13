@@ -1,5 +1,5 @@
 #include<stdio.h>/*start line*/
-int main(void)/* main description*/ //description
+/* main*/int main(void)/* main description*/
 {
 /*
  * main description
